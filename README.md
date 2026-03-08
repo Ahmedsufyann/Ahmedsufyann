@@ -1,59 +1,55 @@
-# Hi there, I'm Ahmed Sufyan 👋
-
 <div align="center">
-  <img width="100%" src="https://github.com/ahmedsufyan/ahmedsufyan/blob/master/assets/new_cover.png" alt="cover" />
-</div>
 
-
-<table>
-  <thead>
-    <tr>
-      <td align="center">
-        <span><strong>Programming Languages & Frameworks</strong></span>
-      </td>
-    </tr>
-  </thead>
-  <br /><br />
-  <tbody>
-    <tr>
-      <td align="center">
-        <img width="70%" src="https://github.com/ahmedsufyan/ahmedsufyan/blob/master/assets/skills.png" alt="skills" />
-      </td>
-    </tr>
-  </tbody>
+# 🌌 Ahmed Sufyan | Web Artisan & IT Strategist
   
+![Visitor Count](https://komarev.com/ghpvc/?username=AhmedSufyan&color=blueviolet&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed--Sufyan-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmed-sufyan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live--Demo-brightgreen?style=flat-square&logo=google-chrome)](https://ahmedsufyan.dev)
+
+---
+
+### 🚀 Professional Identity
+**Programmer & Web Developer** specializing in full-stack solutions with **2 years of industry experience** at **Telia Yemen**. 
+Currently an **IT Student** focusing on the intersection of **Technology and Human Psychology**.
+
+---
+
+### 📊 GitHub Activity Analytics
+<table align="center">
+  <tr>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=AhmedSufyan&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSufyan&layout=compact&theme=dracula" alt="Top Languages" /></td>
+  </tr>
 </table>
-</div>
 
-<br /><br />
+---
 
-## About me
-I am **Ahmed Sufyan**, a Web Developer and Programmer. I am a first-year Information Technology student with professional experience in web development.  
-My preferred stack includes **HTML, CSS, JavaScript**, and I have a strong background in **WordPress** development.  
-I am also interested in the psychological aspects of technology and human nature.
-
-<br /><br />
-
-## My Github stats
-
-<a href="https://github.com/ahmedsufyan">
-  <img align="center" src="https://api.githubtrends.io/user/svg/ahmedsufyan/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
-</a>
-<a href="https://github.com/ahmedsufyan">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsufyan&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="ahmedsufyan's github stats"/>
-</a>
-
-<p>
-  <b>For more Github info </b>
-  <a href="https://github.com/ahmedsufyan">check this</a>
+### 🛠️ Technical Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,git,github,vscode,figma,postman" />
 </p>
 
-<br /><br />
+---
 
-## My Badges
-[![@ahmedsufyan's Holopin board](https://holopin.io/api/user/board?user=ahmedsufyan)](https://www.holopin.io/@ahmedsufyan)
+### 📂 Featured Showcase: Nastya Portfolio
+> A high-conversion portfolio for a multi-lingual tour guide, featuring professional UI/UX and serverless integration.
 
-<br /><br />
+<p align="center">
+  <img src="https://skylifeholidays.com/wp-content/uploads/2024/07/مبنى-الكرملين-في-موسكو.jpg" width="85%" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
+</p>
 
+| Feature | Implementation |
+| :--- | :--- |
+| **Backend** | Formspree API Integration (nf7384373@gmail.com) |
+| **UX Logic** | Human-Nature Psychological Analysis |
+| **Frontend** | Responsive Architecture (Mobile-First) |
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ahmedsufyan)
+---
+
+### 📫 Let's Build Something Together
+<p align="center">
+  <a href="mailto:nf7384373@gmail.com"><img src="https://img.shields.io/badge/Email-Contact--Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/AhmedSufyan"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</div>
